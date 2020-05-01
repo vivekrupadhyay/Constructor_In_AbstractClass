@@ -1,0 +1,13 @@
+D:\Personal\dotnetCore\AbstractClassEx\bin\Debug\netcoreapp3.1\AbstractClassEx.exe
+D:\Personal\dotnetCore\AbstractClassEx\bin\Debug\netcoreapp3.1\AbstractClassEx.deps.json
+D:\Personal\dotnetCore\AbstractClassEx\bin\Debug\netcoreapp3.1\AbstractClassEx.runtimeconfig.json
+D:\Personal\dotnetCore\AbstractClassEx\bin\Debug\netcoreapp3.1\AbstractClassEx.runtimeconfig.dev.json
+D:\Personal\dotnetCore\AbstractClassEx\bin\Debug\netcoreapp3.1\AbstractClassEx.dll
+D:\Personal\dotnetCore\AbstractClassEx\bin\Debug\netcoreapp3.1\AbstractClassEx.pdb
+D:\Personal\dotnetCore\AbstractClassEx\obj\Debug\netcoreapp3.1\AbstractClassEx.csprojAssemblyReference.cache
+D:\Personal\dotnetCore\AbstractClassEx\obj\Debug\netcoreapp3.1\AbstractClassEx.csproj.CoreCompileInputs.cache
+D:\Personal\dotnetCore\AbstractClassEx\obj\Debug\netcoreapp3.1\AbstractClassEx.AssemblyInfoInputs.cache
+D:\Personal\dotnetCore\AbstractClassEx\obj\Debug\netcoreapp3.1\AbstractClassEx.AssemblyInfo.cs
+D:\Personal\dotnetCore\AbstractClassEx\obj\Debug\netcoreapp3.1\AbstractClassEx.dll
+D:\Personal\dotnetCore\AbstractClassEx\obj\Debug\netcoreapp3.1\AbstractClassEx.pdb
+D:\Personal\dotnetCore\AbstractClassEx\obj\Debug\netcoreapp3.1\AbstractClassEx.genruntimeconfig.cache
